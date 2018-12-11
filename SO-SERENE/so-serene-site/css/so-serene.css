@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   max-width: 600px;
   background-color: #232323;
-  background-image: url(IMG_3027.jpg);
+  background-image: url("IMG_3027.jpg");
 }
 div {
   height: 200px;
