@@ -40,10 +40,14 @@ div {
 .btn-Facebook {
   background: #00acee;
   border-color: #009ad5;
+  height: 40px;
+  font-size: 30px
 }
 .btn-instagram {
   background: #f5f5dc;
   border-color: black;
+  height: 40px;
+  font-size: 30px
 }
 p1 {
   color: rgba(256, 256, 256, 1);
