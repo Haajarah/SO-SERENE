@@ -1,1 +1,24 @@
-serene.css
+body {
+  font-family: helvetica, sans-serif;
+  letter-spacing: 5px;
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #black;
+  background-image: url("beige.jpg.png");
+}
+p1 {
+  color: rgba(256, 256, 256, 1);
+  background-color: black;
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 1), rgba(0,0,0,.4));
+  padding: 10px;
+  text-align: center;
+  line-height: 50px;
+  position: bottom;
+  bottom: 50px;
+  margin: 0;
+  height: 30px;
+  transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+}
